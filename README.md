@@ -15,6 +15,6 @@ Issues may be entered here.
 If it proves necessary to update the files, this repository will
 be filled with files retrieved from CTAN:
 
-https://www.ctan.org/macros/latex/contrib/subfig.zip
+http://mirrors.ctan.org/macros/latex/contrib/subfig.zip
 
 
